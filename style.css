@@ -40,3 +40,12 @@
 .display h1 {
     font-size: 6.0em;
 }
+
+@media(max-width: 530px){
+    .relogio{
+        padding: 40px 10px;
+    }
+    .display h1{
+        font-size: 2.5em;
+    }
+}
